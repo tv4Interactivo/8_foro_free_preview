@@ -1,0 +1,72 @@
+#: locale=es
+
+## Media
+
+### Audio
+audiores_1CEF70C3_09FB_F013_4180_86A2314D7F5E.mp3Url = media/audio_1D904B98_09FB_503C_4199_CB206E87F8CC_es.mp3
+
+### Imágen
+imlevel_FF7BDF5E_F2E5_5343_41E3_7201CC894521.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_0.jpg
+imlevel_FF7BDF5E_F2E5_5343_41E3_7201CC894521.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_0.jpg
+imlevel_FF7BCF5E_F2E5_5343_41C2_B1B4EDE09EAD.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_1.jpg
+imlevel_FF7BCF5E_F2E5_5343_41C2_B1B4EDE09EAD.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_1.jpg
+imlevel_FF7BFF5E_F2E5_5343_41E5_E2AD0936886E.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_2.jpg
+imlevel_FF7BFF5E_F2E5_5343_41E5_E2AD0936886E.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_2.jpg
+imlevel_FF7BEF5E_F2E5_5343_41EB_FB6477F17F78.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_3.jpg
+imlevel_FF7BEF5E_F2E5_5343_41EB_FB6477F17F78.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_3.jpg
+imlevel_FF7B1F5E_F2E5_5343_41D3_37D2B0508439.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_4.jpg
+imlevel_FF7B1F5E_F2E5_5343_41D3_37D2B0508439.url = media/zoomImage_119D1125_09C7_7014_4189_C7D3F8DEC67A_es_0_4.jpg
+
+### Popup Imágen
+
+### Título
+album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_0.label = BOTAS-CABORCA-VAQUERA-BORDADO-FLORES-_3_-min_1024x1024
+photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
+photo_96200E80_9B5C_97AD_41E3_554021911D04.label = BOTAS-CABORCA-VAQUERA-CAFE_2_-min_grande
+panorama_DFE318B5_D352_6F44_41E5_25B6608D7778.label = Intersección 1
+panorama_D2EFD26B_D942_68C8_41EB_0F96C51D9DB6.label = Intersección 2
+album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD_2.label = MAA593AMERCIATAN01_1024x1024
+panorama_B2A68D52_BF3E_AFB0_41A4_DDD2D2072036.label = Stands 1
+panorama_B385E8D8_BF3E_D6BF_41E1_C88377D7680F.label = Stands 2
+panorama_CF0BD305_DDD2_F63C_41C2_B1F1E8C01BCF.label = Stands 3
+panorama_D560EA31_D942_5858_41E9_845B6E6D9CAA.label = Stands 4
+panorama_D2F057FC_D942_77C8_41E2_4C487A255957.label = Stands 5
+panorama_D21FFB89_DE47_E928_41E1_DA7E646DB311.label = Stands 6
+panorama_D15FFD47_DDD2_723C_41E7_8BC707B2A6E0.label = Stands 7
+album_A72DB173_BF42_5670_41CF_5909A643EBEA_0.label = amstel_prev
+album_C1AADAC4_D352_20C4_41E9_ECB4C657308B_0.label = cinturato_front
+album_A72DB173_BF42_5670_41CF_5909A643EBEA_1.label = heineken_prev
+album_A72DB173_BF42_5670_41CF_5909A643EBEA_2.label = heineken_products_preview
+album_A72DB173_BF42_5670_41CF_5909A643EBEA_3.label = indio_prev
+album_C1AADAC4_D352_20C4_41E9_ECB4C657308B_1.label = pzero_front
+album_A72DB173_BF42_5670_41CF_5909A643EBEA_4.label = s_gold_prev
+album_A72DB173_BF42_5670_41CF_5909A643EBEA_5.label = s_rose_prev
+album_8DF19C4F_9ABB_A2E0_41D0_4F01C31568DD.label = Álbum BOTAS-CABORCA
+album_A72DB173_BF42_5670_41CF_5909A643EBEA.label = Álbum Heineken
+album_C1AADAC4_D352_20C4_41E9_ECB4C657308B.label = Álbum Pirelli
+
+## Skin
+
+### Botón
+Button_0B890EBB_048A_5880_4183_E9C5610B789E_mobile.label = Navegación
+Button_088FFE0B_0487_BB87_4149_E53DC09943CC_mobile.label = Programa
+Button_088FFE0B_0487_BB87_4149_E53DC09943CC.label = Programa
+Button_0A094028_048D_C780_4192_053E1B980866.label = ¡Regístrate!
+Button_0A094028_048D_C780_4192_053E1B980866_mobile.label = ¡Regístrate!
+
+### Imágen
+Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE.url = skin/Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_es.png
+Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_mobile.url = skin/Image_179D8AC7_046F_0E67_414A_CA6ED15F42DE_mobile_es.png
+Image_FCD05F92_F232_BB58_41B3_E707731EF6F3.url = skin/Image_FCD05F92_F232_BB58_41B3_E707731EF6F3_es.png
+Image_FCD05F92_F232_BB58_41B3_E707731EF6F3_mobile.url = skin/Image_FCD05F92_F232_BB58_41B3_E707731EF6F3_mobile_es.png
+
+### Texto Multilínea
+HTMLText_A359513D_BF4D_D7F1_41D2_CAE77555ED79.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:34px;font-family:'Red Hat Display ExtraBold';"><B>¿Quieres formar parte?</B></SPAN></SPAN></DIV></div>
+HTMLText_A359513D_BF4D_D7F1_41D2_CAE77555ED79_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00d2bc;font-size:20px;font-family:'Red Hat Display ExtraBold';"><B>¿Quieres formar parte?</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = 8° Foro de Sustentabilidad (Duplicado)
